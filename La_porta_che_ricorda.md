@@ -1148,3 +1148,7 @@ recap:
 - recap_per_chapter = true → OK
 - side-car_yaml per ogni scena → OK (minimo vitale)
 ```
+
+La Porta che Ricorda — Copyright (c) 2025 Raffaele Spezia
+
+This work (all narrative/content files unless otherwise noted) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
